@@ -14,3 +14,6 @@ C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Deb
 C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.first.resources
