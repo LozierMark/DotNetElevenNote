@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Eleven.Models",
+    "\\ElevenNote.Services",
+    "\\ElevenNote.WebMVC",
+    "\\ElevenNote.WebMVC\\Views",
+    "\\ElevenNote.WebMVC\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Eleven.Models\\NoteDetail.cs",
+  "PreviewInSolutionExplorer": false
+}

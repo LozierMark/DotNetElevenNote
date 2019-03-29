@@ -21,3 +21,9 @@ C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\obj\De
 C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CopyComplete
 C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.dll
 C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.pdb
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\bin\Debug\Eleven.Models.dll
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\bin\Debug\ElevenNote.Data.dll
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\bin\Debug\Eleven.Models.pdb
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\bin\Debug\Eleven.Models.dll.config
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\bin\Debug\ElevenNote.Data.pdb
+C:\C#-Library\DotNetProjects\DotNetElevenNote\ElevenNote\ElevenNote.Tests\bin\Debug\ElevenNote.Data.dll.config
